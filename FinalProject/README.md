@@ -1,20 +1,24 @@
-# qt-opencv-cpp-project
+# PNEUMONIA DETECTION ALGORITHM
 
-**!!Sorry, this repo code might be outdated!!** Creating a desktop application in C++ with OpenCV : Segmentation of ultrasound images by implementing the watershed algorithm.
+## QT5-GUI
+(Refer to: https://github.com/medaimane/qt-opencv-cpp-project)
 
-# Tools
+## Image processing:
+1. Contrast Enhancement
+2. Histogram
+3. Morphological Detection 
 
-C++, OpenCV, QT Creator, Git, Linux
+(Refer to: https://github.com/YCAyca/Image_Processing_GUI)
+
+## Pneumonia Detection cascade classifier
+
+(Refer to: https://github.com/robotechnics/openCV_Biomedical)
 
 # Author
 
-Mohamed Aimane SKHAIRI
+Timotius Christopher Tantokusumo
 
 # Contact 
 
-skhairimedaimane@gmail.com
-
-# License
-
-GNU GPL v3.0.
+timotius.tantokusumo@student.sgu.ac.id
 
